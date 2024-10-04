@@ -1,0 +1,22 @@
+body {
+    font-family: 'Arial', sans-serif;
+}
+
+header {
+    background-image: url('/images/banner-kpt.jpg'); /* Anda boleh letak imej latar belakang */
+    background-size: cover;
+    color: #fff;
+}
+
+footer {
+    background-color: #003366;
+}
+
+.navbar {
+    box-shadow: 0px 2px 10px rgba(0, 0, 0, 0.1);
+}
+
+.btn-primary {
+    background-color: #003366;
+    border-color: #003366;
+}
